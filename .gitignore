@@ -3,5 +3,8 @@
 .vscode/
 dataset/
 venv/
-*.ipynb
+# *.ipynb
 *.pyc
+未来杯-城市-房展租金预测-baseline.ipynb
+part1.ipynb
+.ipynb_checkpoints
